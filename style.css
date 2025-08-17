@@ -14,11 +14,11 @@ body{
 }
 #clock{
     font-family: monospace;
-    font-size: 5.5rem;
+    font-size: 5rem;
     font-weight: bold;
     text-align: center;
     color: white;
     backdrop-filter: blur(5px);
     background-color: rgba(212, 212, 212, 0.139);
-    width: 100%;
+    width: 100vw;
 }
